@@ -1,7 +1,6 @@
 # Hi there, I'm Daniel! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoenicke&layout=compact)](https://github.com/dhoenicke/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhoenicke&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoenicke&layout=compact)](https://github.com/dhoenicke/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhoenicke&show_icons=true&theme=radical)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
